@@ -20,6 +20,7 @@ public class Application {
         for(String s : streamList) {
             sb.append(s);
         }
+        System.out.println(sb);
         return sb;
     }
 
